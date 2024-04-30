@@ -1,0 +1,308 @@
+Attraction_id,Name,Type ,Ratings,Season_availability,Dzongkhag,Fee
+1,Docula Pass,Landmark,4.8,Year-round,Thimphu,Free
+2,Chele La,Landmark,4.7,Year-round,Paro,Free
+3,Mo Chu,Natural,5,Year-round,Punakha,3500
+4,Jomolhari,Natural,4.2,Year-round,Paro,Free
+5,Tiger's Nest,Landmark,4.8,Year-round,Paro,Free
+6,Phobjikha Valley,Natural,4.8,Year-round,Wangdue Phodrang,Free
+7,Hidden Valley of Bumthang,Natural,4.8,Year-round,Bumthang,Free
+8,Tango Buddhist Institute,Monastery,4.6,Year-round,Thimphu,Free
+9,Gangtey Monastery,Monastery,4.5,Year-round,Wangdue Phodrang,Free
+10,Kyichu Lhakhang,Monastery,4.5,Year-round,Paro,Free
+11,Jigme Dorji National Park,Natural,4.2,Year-round,Gasa,150
+12,Thrumshingla National Park,Natural,4.6,Year-round,Mongar,Free
+13,Torsa Strict Nature Reserve,Natural,4,Year-round,Haa,Free
+14,Drukgyel Dzong,Landmark,4.2,Year-round,Paro,Free
+15,Bumdeling Wildlife Sanctuary,Natural,4.2,Year-round,Lhuentse,Free
+16,Dechen Phodrang,Monastery,4.9,Year-round,Trashi-Yangtse,Free
+17,Royal Manas National Park,Natural,4.2,Year-round,Gelephu,Free
+18,Singye Dzong,Monastery,4.9,Year-round,Lhunetse,Free
+19,Sakteng Wildlife Sanctuary,Natural,4.3,Year-round,Trashigang,Free
+20,Tamshing Monastery,Monastery,4.8,Year-round,Bumthang,Free
+21,National Musuem ,Musuem,4.2,Year-round,Paro,500
+22,Folk Heritage,Musuem,4.2,Year-round,Thimphu,150
+23,Rinpung Dzong,Landmark,4.6,Year-round,Paro,Free
+24,Punakha Dzong,Landmark,4.8,Year-round,Punakha,300
+25,Tashichho Dzong,Landmark,4.9,Year-round,Thimphu,300
+26,Trongsa Dzong,Landmark,4.9,Year-round,Trongsa,150
+27,Semtokha Dzong,Landmark,4.5,Year-round,Thimphu,300
+28,Buddha Dordenma,Landmark,4.7,Year-round,Thimphu,Free
+29,Handicrafts Market,Market,4.5,Year-round,Thimphu,Free
+30,Memorial Chorten,Landmark,4.5,Year-round,Thimphu,300
+31,Philatelic Bureau,Musuem,4.4,Year-round,Thimphu,150
+32,Chimi Lhakhang,Monastery,4.4,Year-round,Punakha,Free
+33,Punakha Drubchen,Festival,4.5,Winter,Punakha,Free
+34,Punakha Tshechu,Festival,4.6,Winter,Punakha,Free
+35,Tharpaling Thongdrol,Festival,4.2,Winter,Bumthang,Free
+36,Thangbi Mani,Festival,4.1,Winter,Bumthang,Free
+37,Zhemgang Tshechu,Festival,4,Spring,Zhemgang,Free
+38,Gasa Tshechu,Festival,4.3,Spring,Gasa,Free
+39,Talo Tshechu,Festival,4.5,Spring,Punakha,Free
+40,Gomphukora,Festival,4.3,Spring,Trashigang,Free
+41,Paro Tshechu,Festival,4.8,Spring,Paro,Free
+42,Chhorten Kora,Festival,4.4,Spring,Trashi-Yangtse,Free
+43,Rhododendron Festival,Festival,4.2,Spring,Thimphu,Free
+44,Domkhar Tshechu,Festival,4.4,Spring,Bumthang,Free
+45,Ura Yakchoe,Festival,4.6,Spring,Bumthang,Free
+46,Nimalung Tshechu,Festival,4.3,Summer,Bumthang,Free
+47,Kurjey Tshechu,Festival,4.6,Summer,Bumthang,Free
+48,Tour of the Dragon (Mountain Bike Race),Festival,4.8,Autumn,Thimphu,1000
+49,Thimphu Drubchen,Festival,4.6,Autumn,Thimphu,Free
+50,Thimphu Tshechu,Festival,4.7,Autumn,Thimphu,Free
+51,Wangdue Tshechu,Festival,4.7,Autumn,Wangdue Phodrang,Free
+52,Tamshing Phala Chhoepa,Festival,4.5,Autumn,Bumthang,Free
+53,Gangtey Tshechu,Festival,4.6,Autumn,Wangdue Phodrang,Free
+54,Thangbi Mani,Festival,4.8,Autumn,Bumthang,Free
+55,Thangbi Mewang,Festival,4.4,Autumn,Bumthang,Free
+56,Jakar Tshechu,Festival,4.6,Autumn,Bumthang,Free
+57,Chhukha Tshechu,Festival,4.3,Autumn,Chukha,Free
+58,Jhomolhari Mountain Festival,Festival,4.9,Autumn,Thimphu,Free
+59,Prakhar Duchhoed,Festival,4.7,Autumn,Bumthang,Free
+60,Royal Highland Festival,Festival,5,Autumn,Gasa,Free
+61,Dechecnphu Tshechu,Festival,4.6,Autumn,Thimphu,Free
+62,Mongar Tshechu,Festival,4.5,Autumn,Mongar,Free
+63,Trashigang Tshechu,Festival,4.6,Autumn,Trashigang,Free
+64,Pemagatshel Tshechu,Festival,4.7,Autumn,Pemagatshel,Free
+65,Black Necked Crane Festival,Festival,4.7,Autumn,Wangdue Phodrang,Free
+66,Nalakhar Tshechu,Festival,4.6,Autumn,Bumthang,Free
+67,Jambay Lhakhang Drup,Festival,4.5,Autumn,Bumthang,Free
+68,Jambay Lhakhang Singye Cham,Festival,4.6,Autumn,Bumthang,Free
+69,Lhuentse Tshechu,Festival,4.7,Winter,Lhuentse,Free
+70,Trongsa Tshechu,Festival,4.6,Winter,Trongsa,Free
+71,Druk Wangyel Tshechu,Festival,4.7,Winter,Thimphu,Free
+72,Samdrup Jonkhar Tshechu,Festival,4.6,Winter,Samdrup Jonkhar,Free
+73,Nabji Lhakhang Drup,Festival,4.7,Winter,Trongsa,Free
+74,Dochula Pass Botanical Garden,Garden,4.6,Year-round,Thimphu,200
+75,Gangtey Nature Trail,Trail,4.7,Year-round,Wangdue Phodrang,Free
+76,Wangdue Phodrang Dzong,Landmark,4.8,Year-round,Wangdue Phodrang,300
+77,Haa Valley,Natural,4.6,Year-round,Haa,Free
+78,Chele La Pass Trek,Trek,4.9,Year-round,Paro,Free
+79,Jakar Dzong,Monastery,4.7,Year-round,Bumthang,Free
+80,Khamsum Yulley Namgyal Chorten,Monastery,4.8,Year-round,Punakha,300
+81,Gangtey Goenpa,Monastery,4.6,Year-round,Wangdue Phodrang,Free
+82,Changangkha Lhakhang,Monastery,4.5,Year-round,Thimphu,Free
+83,Trashigang Dzong,Landmark,4.7,Year-round,Trashigang,300
+84,Rangjung Woesel Chholing Monastery,Monastery,4.7,Year-round,Trashigang,Free
+85,National Textile Museum,Museum,4.5,Year-round,Thimphu,200
+86,Wangdue Phodrang Tshechu,Festival,4.6,Autumn,Wangdue Phodrang,Free
+87,Gasa Dzong,Landmark,4.8,Year-round,Gasa,300
+88,Lhuentse Dzong,Landmark,4.6,Year-round,Lhuentse,300
+89,Paro International Airport,Airport,4.8,Year-round,Paro,Free
+90,Trashigang Airport,Airport,4.5,Year-round,Trashigang,Free
+91,Punakha Suspension Bridge,Bridge,4.7,Year-round,Punakha,Free
+92,Changlimithang Stadium,Stadium,4.6,Year-round,Thimphu,Free
+93,Trongsa Museum,Museum,4.7,Year-round,Trongsa,200
+94,Rinpung Dzong Festival Ground,Festival,4.8,Spring,Paro,Free
+95,Dochula Druk Wangyel Festival,Festival,4.7,Winter,Thimphu,Free
+96,Kurje Lhakhang Festival,Festival,4.6,Autumn,Bumthang,Free
+97,Jampay Lhakhang Festival,Festival,4.5,Autumn,Bumthang,Free
+98,Lhuentse Tshechu,Festival,4.7,Winter,Lhuentse,Free
+99,Trongsa Tshechu,Festival,4.6,Winter,Trongsa,Free
+100,Druk Wangyel Tshechu,Festival,4.7,Winter,Thimphu,Free
+101,National Institute for Zorig Chusum,Institute,4.6,Year-round,Thimphu,200
+102,Royal Textile Academy of Bhutan,Academy,4.8,Year-round,Thimphu,200
+103,Paro Taktsang Cafeteria,Cafeteria,4.5,Year-round,Paro,Free
+104,Dochula Pass Eco Lodge,Lodge,4.7,Year-round,Thimphu,500
+105,Bumthang Owl Trek,Trek,4.9,Year-round,Bumthang,Free
+106,Bhutan Postal Museum,Museum,4.7,Year-round,Thimphu,200
+107,Dzongdrakha Goemba,Monastery,4.6,Year-round,Paro,Free
+108,Talo Monastery,Monastery,4.7,Year-round,Punakha,Free
+109,Ura Valley,Valley,4.8,Year-round,Bumthang,Free
+110,Torsa River,River,4.5,Year-round,Haa,Free
+111,Trashiyangtse Dzong,Landmark,4.7,Year-round,Trashi-Yangtse,300
+112,Wangdue Phodrang Suspension Bridge,Bridge,4.6,Year-round,Wangdue Phodrang,Free
+113,Phrumsengla National Park,Park,4.8,Year-round,Bumthang,Free
+114,Samtengang Trek,Trek,4.7,Year-round,Wangdue Phodrang,Free
+115,Royal Manas National Park Visitor Center,Center,4.5,Year-round,Gelephu,Free
+116,Kila Goenpa Nunnery,Nunnery,4.7,Year-round,Paro,Free
+117,Haa Summer Festival,Festival,4.8,Summer,Haa,Free
+118,Bumthang Nomad Festival,Festival,4.6,Summer,Bumthang,Free
+119,Jomolhari Mountain Festival,Festival,4.7,Autumn,Paro,Free
+120,Dochula Druk Wangyel Festival,Festival,4.8,Winter,Thimphu,Free
+121,Jakar Tshechu,Festival,4.6,Autumn,Bumthang,Free
+122,Black-Necked Crane Festival,Festival,4.8,Autumn,Phobjikha,Free
+123,Punakha Drubchen,Festival,4.7,Winter,Punakha,Free
+124,Ura Yakchoe,Festival,4.6,Spring,Bumthang,Free
+125,Lhuntse Matsutake Festival,Festival,4.7,Autumn,Lhuentse,Free
+126,Nimalung Tshechu,Festival,4.5,Spring,Bumthang,Free
+127,Tsirang Dzong,Landmark,4.6,Year-round,Tsirang,Free
+128,Tashiyangtse Dzong,Landmark,4.7,Year-round,Trashi-Yangtse,300
+129,Haa Dzong,Landmark,4.8,Year-round,Haa,Free
+130,Trashi Yangtse Dzong,Landmark,4.6,Year-round,Trashi-Yangtse,300
+131,Jakar Dzong Festival Ground,Festival,4.7,Spring,Bumthang,Free
+132,Paro Summer Festival,Festival,4.8,Summer,Paro,Free
+133,Talo Tshechu,Festival,4.7,Spring,Punakha,Free
+134,Chorten Kora Festival,Festival,4.6,Spring,Trashigang,Free
+135,Pemagatshel Tshechu,Festival,4.8,Autumn,Pemagatshel,Free
+136,Trashigang Tshechu,Festival,4.7,Autumn,Trashigang,Free
+137,Nalakhar Tshechu,Festival,4.6,Autumn,Bumthang,Free
+138,Nabji Lhakhang Drup,Festival,4.7,Winter,Trongsa,Free
+139,Jambay Lhakhang Drup,Festival,4.6,Autumn,Bumthang,Free
+140,Jambay Lhakhang Singye Cham,Festival,4.7,Autumn,Bumthang,Free
+141,Gasa Dzong Tsechu,Festival,4.6,Spring,Gasa,Free
+142,Thimphu Tshechu,Festival,4.7,Autumn,Thimphu,Free
+143,Mongar Tshechu,Festival,4.6,Autumn,Mongar,Free
+144,Mongar Dzong,Landmark,4.7,Year-round,Mongar,Free
+145,Lhuntse Dzong,Landmark,4.8,Year-round,Lhuentse,Free
+146,Trashiyangtse Dzong,Landmark,4.7,Year-round,Trashigang,Free
+147,Trashigang Tshechu,Festival,4.6,Autumn,Trashigang,Free
+148,Tshechu at Dochula Pass,Festival,4.7,Spring,Thimphu,Free
+149,Druk Wangyel Tshechu,Festival,4.6,Winter,Thimphu,Free
+150,Bhutan International Marathon,Marathon,4.8,Spring,Thimphu,500
+151,Jigme Dorji Wangchuck National Park,Park,4.7,Year-round,Gasa,Free
+152,Kurje Lhakhang,Monastery,4.6,Year-round,Bumthang,Free
+153,Chimi Lhakhang,Monastery,4.8,Year-round,Punakha,Free
+154,Dungtse Lhakhang,Monastery,4.7,Year-round,Paro,Free
+155,Tashichho Dzong Tshechu,Festival,4.7,Autumn,Thimphu,Free
+156,Nalanda Buddhist Institute,Institute,4.6,Year-round,Punakha,200
+157,Rinchengang Village,Village,4.8,Year-round,Paro,Free
+158,Gomphu Kora,Festival,4.7,Spring,Trashigang,Free
+159,Singye Dzong Tshechu,Festival,4.6,Spring,Lhuentse,Free
+160,Druk Path Trek,Trek,4.9,Autumn,Thimphu,Free
+161,Zhabdrung Ngawang Namgyal’s Stupa,Stupa,4.8,Year-round,Punakha,Free
+162,Bhutanese Paper Factory,Factory,4.7,Year-round,Thimphu,Free
+163,Dochula Pass 108 Chortens,Landmark,4.6,Year-round,Thimphu,Free
+164,National Handicrafts Emporium,Market,4.8,Year-round,Thimphu,Free
+165,Tango Monastery,Monastery,4.7,Year-round,Thimphu,Free
+166,National Library of Bhutan,Library,4.6,Year-round,Thimphu,Free
+167,Chendebji Chorten,Chorten,4.7,Year-round,Trongsa,Free
+168,Kurjey Lhakhang,Monastery,4.8,Year-round,Bumthang,Free
+169,Trashi Chhoe Dzong,Dzong,4.7,Year-round,Trashi-Yangtse,Free
+170,Lhuentse Dzong,Dzong,4.8,Year-round,Lhuentse,Free
+171,Takila,Landmark,4.7,Year-round,Bumthang,Free
+172,Gom Kora,Temple,4.8,Year-round,Trashigang,Free
+173,Bumthang Brewery,Brewery,4.7,Year-round,Bumthang,Free
+174,Chokhor Valley,Valley,4.6,Year-round,Bumthang,Free
+175,Khuru National Championship,Game,4.8,Spring,Thimphu,200
+176,Trashigang Tsechu,Festival,4.7,Autumn,Trashigang,Free
+177,Thimphu Tsechu,Festival,4.8,Autumn,Thimphu,Free
+178,Bumthang Tshechu,Festival,4.7,Spring,Bumthang,Free
+179,Haa Summer Festival,Festival,4.6,Summer,Haa,Free
+180,Punakha Dromche,Festival,4.8,Spring,Punakha,Free
+181,Trongsa Tsechu,Festival,4.7,Autumn,Trongsa,Free
+182,Nimalung Tsechu,Festival,4.6,Spring,Bumthang,Free
+183,Kurjey Tshechu,Festival,4.7,Summer,Bumthang,Free
+184,Jambay Lhakhang Drup,Festival,4.8,Autumn,Bumthang,Free
+185,Ura Yakchoe,Festival,4.7,Spring,Bumthang,Free
+186,Mongar Tshechu,Festival,4.6,Autumn,Mongar,Free
+187,Gomphukora Tshechu,Festival,4.8,Spring,Trashigang,Free
+188,Haa Tshechu,Festival,4.7,Spring,Haa,Free
+189,Tsirang Tshechu,Festival,4.6,Autumn,Tsirang,Free
+190,Pemagatshel Tshechu,Festival,4.7,Autumn,Pemagatshel,Free
+191,Mongar Tshechu,Festival,4.6,Autumn,Mongar,Free
+192,Lhuntse Tshechu,Festival,4.7,Winter,Lhuentse,Free
+193,Trashiyangtse Tshechu,Festival,4.6,Spring,Trashi-Yangtse,Free
+194,Jomolhari Mountain Festival,Festival,4.7,Autumn,Paro,Free
+195,Jakar Dzong Tshechu,Festival,4.6,Spring,Bumthang,Free
+196,Punakha Domche,Festival,4.8,Spring,Punakha,Free
+197,Gasa Tshechu,Festival,4.7,Spring,Gasa,Free
+198,Bumthang Ura Yakchoe Festival,Festival,4.6,Spring,Bumthang,Free
+199,Paro Taktsang,Monastery,4.8,Year-round,Paro,Free
+200,Gangtey Goenpa Lodge,Lodge,4.7,Year-round,Wangdue Phodrang,600
+201,Samtengang Winter Trek,Trek,4.9,Winter,Wangdue Phodrang,Free
+202,Dochula Pass Meditation Retreat,Retreat,4.8,Year-round,Thimphu,1000
+203,Paro Weekend Market,Market,4.7,Year-round,Paro,Free
+204,Khamsa Yulley Namgyal Chorten Museum,Museum,4.6,Year-round,Punakha,200
+205,Paro Town,Town,4.7,Year-round,Paro,Free
+206,Haa Valley Excursion,Tour,4.8,Year-round,Haa,800
+207,Phobjikha Crane Information Centre,Center,4.7,Year-round,Wangdue Phodrang,Free
+208,Trongsa Heritage Museum,Museum,4.8,Year-round,Trongsa,200
+209,Taktshang Pelphug Monastery,Monastery,4.9,Year-round,Paro,Free
+210,Gasa Hot Springs,Hot Spring,4.7,Year-round,Gasa,300
+211,Jambay Lhakhang,Monastery,4.8,Year-round,Bumthang,Free
+212,Thimphu Weekend Market,Market,4.7,Year-round,Thimphu,Free
+213,Trashigang Weekend Market,Market,4.6,Year-round,Trashigang,Free
+214,Tachog Lhakhang,Monastery,4.8,Year-round,Paro,Free
+215,Wangdue Phodrang Weekend Market,Market,4.7,Year-round,Wangdue Phodrang,Free
+216,Paro Airport,Airport,4.8,Year-round,Paro,Free
+217,Trashigang Airport,Airport,4.7,Year-round,Trashigang,Free
+218,Jakar Airport,Airport,4.8,Year-round,Bumthang,Free
+219,Paro Dzong,Landmark,4.9,Year-round,Paro,300
+220,Wangdue Phodrang Dzong,Landmark,4.8,Year-round,Wangdue Phodrang,300
+221,Trongsa Dzong,Landmark,4.9,Year-round,Trongsa,150
+222,Paro Museum,Museum,4.7,Year-round,Paro,200
+223,Thimphu Clock Tower,Landmark,4.8,Year-round,Thimphu,Free
+224,Tashichho Dzong,Landmark,4.9,Year-round,Thimphu,300
+225,Semtokha Dzong,Landmark,4.7,Year-round,Thimphu,300
+226,Buddha Point,Landmark,4.8,Year-round,Thimphu,Free
+227,Memorial Chorten,Landmark,4.6,Year-round,Thimphu,300
+228,Trashi Chhoe Dzong,Landmark,4.7,Year-round,Trashi-Yangtse,Free
+229,Trashigang Dzong,Landmark,4.8,Year-round,Trashigang,300
+230,Punakha Dzong,Landmark,4.9,Year-round,Punakha,300
+231,Rinpung Dzong,Landmark,4.8,Year-round,Paro,Free
+232,Drukgyel Dzong,Landmark,4.6,Year-round,Paro,Free
+233,Gangtey Monastery,Monastery,4.8,Year-round,Wangdue Phodrang,Free
+234,Tango Monastery,Monastery,4.7,Year-round,Thimphu,Free
+235,Dechen Phodrang Monastery,Monastery,4.9,Year-round,Trashi-Yangtse,Free
+236,Kyichu Lhakhang,Monastery,4.8,Year-round,Paro,Free
+237,Thangtong Dewachen Nunnery,Monastery,4.7,Year-round,Trashi-Yangtse,Free
+238,Cheri Monastery,Monastery,4.8,Year-round,Thimphu,Free
+239,Ralung Monastery,Monastery,4.7,Year-round,Paro,Free
+240,Tamshing Monastery,Monastery,4.6,Year-round,Bumth,Free
+241,Chokhor Valley,Valley,4.8,Year-round,Bumthang,Free
+242,Phobjikha Valley,Valley,4.7,Year-round,Wangdue Phodrang,Free
+243,Haa Valley,Valley,4.8,Year-round,Haa,Free
+244,Punakha Valley,Valley,4.6,Year-round,Punakha,Free
+245,Thimphu Valley,Valley,4.7,Year-round,Thimphu,Free
+246,Paro Valley,Valley,4.9,Year-round,Paro,Free
+247,Wangdue Phodrang Valley,Valley,4.6,Year-round,Wangdue Phodrang,Free
+248,Trongsa Valley,Valley,4.8,Year-round,Trongsa,Free
+249,Trashigang Valley,Valley,4.7,Year-round,Trashigang,Free
+250,Trashiyangtse Valley,Valley,4.6,Year-round,Trashigang,Free
+251,Lhuntse Valley,Valley,4.8,Year-round,Lhuentse,Free
+252,Phuentsholing,Town,4.7,Year-round,Chhukha,Free
+253,Paro Market,Market,4.8,Year-round,Paro,Free
+254,Wangdue Phodrang Market,Market,4.6,Year-round,Wangdue Phodrang,Free
+255,Punakha Market,Market,4.7,Year-round,Punakha,Free
+256,Thimphu Weekend Market,Market,4.8,Year-round,Thimphu,Free
+257,Trashigang Market,Market,4.7,Year-round,Trashigang,Free
+258,Tashigang Weekend Market,Market,4.6,Year-round,Trashigang,Free
+259,Mongar Market,Market,4.8,Year-round,Mongar,Free
+260,Lhuentse Market,Market,4.7,Year-round,Lhuentse,Free
+261,Bumthang Market,Market,4.8,Year-round,Bumthang,Free
+262,Gelephu Weekend Market,Market,4.7,Year-round,Sarpang,Free
+263,Trongsa Market,Market,4.8,Year-round,Trongsa,Free
+264,Royal Textile Academy Boutique,Boutique,4.7,Year-round,Thimphu,Free
+265,Bhutan Craft Bazaar,Bazaar,4.8,Year-round,Thimphu,Free
+266,Bhutan Postal Museum,Museum,4.7,Year-round,Thimphu,200
+267,National Handicrafts Emporium,Emporium,4.8,Year-round,Thimphu,Free
+268,Dochula Pass,Mountain,4.6,Year-round,Thimphu,Free
+269,Phajoding Monastery,Monastery,4.7,Year-round,Thimphu,Free
+270,Tachogang Lhakhang,Monastery,4.6,Year-round,Paro,Free
+271,Kyichu Lhakhang,Monastery,4.7,Year-round,Paro,Free
+272,Tamzhing Lhakhang Nunnery,Monastery,4.8,Year-round,Bumthang,Free
+273,Gangtey Monastery,Monastery,4.7,Year-round,Wangdue Phodrang,Free
+274,Cheri Monastery,Monastery,4.6,Year-round,Thimphu,Free
+275,Dechen Phodrang Monastery,Monastery,4.7,Year-round,Thimphu,Free
+276,Tango Monastery,Monastery,4.8,Year-round,Thimphu,Free
+277,Rinpung Dzong,Dzong,4.7,Year-round,Paro,300
+278,Trashigang Dzong,Dzong,4.8,Year-round,Trashigang,300
+279,Punakha Dzong,Dzong,4.7,Year-round,Punakha,300
+280,Wangdue Phodrang Dzong,Dzong,4.8,Year-round,Wangdue Phodrang,300
+281,Simtokha Dzong,Dzong,4.7,Year-round,Thimphu,300
+282,Lhuntse Dzong,Dzong,4.8,Year-round,Lhuentse,300
+283,Mongar Dzong,Dzong,4.7,Year-round,Mongar,300
+284,Trongsa Dzong,Dzong,4.8,Year-round,Trongsa,300
+285,National Institute for Zorig Chusum,Institute,4.7,Year-round,Thimphu,200
+286,Institute of Traditional Medicine,Institute,4.8,Year-round,Thimphu,Free
+287,Royal Thimphu College,College,4.7,Year-round,Thimphu,Free
+288,Sherubtse College,College,4.8,Year-round,Trashigang,Free
+289,College of Natural Resources,College,4.7,Year-round,Punakha,Free
+290,Paro College of Education,College,4.6,Year-round,Paro,Free
+291,Khesar Gyalpo University of Medical Sci.,University,4.8,Year-round,Thimphu,Free
+292,Royal University of Bhutan,University,4.7,Year-round,Thimphu,Free
+293,Gedu College of Business Studies,College,4.8,Year-round,Chhukha,Free
+294,Yonphula Centenary College,College,4.7,Year-round,Trashigang,Free
+295,Paro College of Science & Technology,College,4.8,Year-round,Paro,Free
+296,"The Royal Academy, Pangbisa",Academy,4.7,Year-round,Thimphu,Free
+297,Lhuentse Dzongkhag Cultural Museum,Museum,4.8,Year-round,Lhuentse,200
+298,National Museum Paro,Museum,4.7,Year-round,Paro,300
+299,Bhutan Textile Museum,Museum,4.8,Year-round,Thimphu,200
+300,Royal Academy of Performing Arts,Academy,4.7,Year-round,Thimphu,Free
+301,National Institute for the Visually Impaired,Institute,4.6,Year-round,Khaling,Free
+302,Folk Heritage Museum,Museum,4.7,Year-round,Thimphu,200
+303,Jungshi Handmade Paper Factory,Factory,4.8,Year-round,Thimphu,Free
+304,National Institute of Traditional Medicine,Institute,4.7,Year-round,Thimphu,Free
+305,Bhutanese Folk Museum,Museum,4.6,Year-round,Thimphu,200
+306,Bhutan Postal Museum,Museum,4.7,Year-round,Thimphu,200
+307,Royal Textile Academy Boutique,Boutique,4.8,Year-round,Thimphu,Free
